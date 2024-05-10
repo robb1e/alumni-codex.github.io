@@ -47,3 +47,6 @@ A template for you to use:
     - _Application development and workflow automation consulting, specializing in Elixir, Phoenix, and Rust._
     - [Eric Saxby](https://www.linkedin.com/in/ericsaxby/)
     - [Erik Hanson](https://www.linkedin.com/in/eahanson/)
+- Clutton Associates Ltd (robbieclutton.com)
+  - Independent consultant offering fractional CTO/VP, coaching, advising, and training.
+  - [Robbie Clutton](https://linkedin.com/in/robbieclutton)
